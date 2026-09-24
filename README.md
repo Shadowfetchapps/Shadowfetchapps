@@ -18,7 +18,7 @@ Linux-first apps, games and a distro. Everything here runs locally.
 | [Shadow Batch Processor](https://github.com/Shadowfetchapps/Shadow-Batch-Processor) | Batch rename, convert, compress and strip metadata |
 | [Shadow Image Studio](https://github.com/Shadowfetchapps/Shadow-Image-Studio) | Lightweight image editor: crop, resize, rotate, adjust, EXIF |
 | [Shadow Icon Factory](https://github.com/Shadowfetchapps/Shadow-Icon-Factory) | iOS, macOS, Linux, Web and Android icon sets from one image |
-| [Shadow Recorder](https://github.com/Shadowfetchapps/shadow-recorder) | Screen recorder and streamer with a facecam overlay |
+| [Shadow Ant Farm](https://github.com/Shadowfetchapps/shadow-ant-farm) | Photorealistic glass ant farm that digs its own nest, built to stream for hours |
 | [Shadow Creator Studio](https://github.com/Shadowfetchapps/shadow-creator-studio) | Screen, webcam and voice recording for YouTube creators |
 | [Shadowfetch Voice Studio](https://github.com/Shadowfetchapps/shadowfetch-voice-studio) | Local voice cloning and speech on an NVIDIA GPU |
 | [Shadow Mission Control](https://github.com/Shadowfetchapps/shadow-mission-control) | Local HUD for CPU, GPU, disks, network and model servers |
