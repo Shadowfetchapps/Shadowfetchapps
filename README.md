@@ -13,7 +13,7 @@ Linux-first apps, games and a distro. Everything here runs locally.
 
 | App | What it does |
 | --- | --- |
-| [ShadowCode](https://github.com/Shadowfetchapps/ShadowCode) | Desktop coding agent for your Codex, Claude Code, Cursor, Antigravity and Grok subscriptions, or local GGUF models |
+| [ShadowCode](https://github.com/Shadowfetchapps/ShadowCode) | Desktop coding agent for your Codex, Claude Code, Cursor, Antigravity and Grok subscriptions, OpenRouter models, or local GGUF models |
 | [Shadow Convert](https://github.com/Shadowfetchapps/Shadow-Convert) | Convert video, audio and images locally with FFmpeg and ImageMagick |
 | [Shadow Batch Processor](https://github.com/Shadowfetchapps/Shadow-Batch-Processor) | Batch rename, convert, compress and strip metadata |
 | [Shadow Image Studio](https://github.com/Shadowfetchapps/Shadow-Image-Studio) | Lightweight image editor: crop, resize, rotate, adjust, EXIF |
